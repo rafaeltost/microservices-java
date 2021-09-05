@@ -13,7 +13,7 @@
 
 ## Base de dados:
 
-Neste projeto utilizamos docker para subir as instancias de banco de dados.
+Utilizamos docker para subir as instancias de banco de dados.
 
 elasticsearch versão 6.6.1 conforme comando abaixo:
 
