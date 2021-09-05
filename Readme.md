@@ -1,8 +1,6 @@
 ## Construindo um projeto Java com arquitetura baseada em microsserviços usando Spring Cloud.
 
 
-​	Neste projeto foram criado dois pequenos sistemas onde o objetivo era atraves da arquitetura de micro-serviços utilizar a mesma porta para varios serviços.
-
 ### Tecnologias utilizadas:
 
 * catalago de produto : Spring com base de dados no elasticsearch.
